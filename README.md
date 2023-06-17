@@ -16,4 +16,4 @@
 
 - Mobile View
   
-
+![Screenshot 2023-06-17 150037](https://github.com/aratidsa/Product-Preview-Card-Component---Frontend-Mentor-Challenge--/assets/128802362/4ebd0d28-80fb-454b-9241-a5e6ebe7c098)
