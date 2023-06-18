@@ -3,7 +3,7 @@
 **Frontend Mentor Challenge - Product Preview Card Component - Solution**
 
 - I have built Product Preview Card Component using HTML and CSS – Flex.
-* This is a solution to the Product Preview Card Component challenge on Frontend Mentor.
+* This is a solution to the [Product Preview Card Component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-and-grid-NSm-NRFKfX).
 + Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 **Live URL :-** https://product-preview-card-design.netlify.app/ 
